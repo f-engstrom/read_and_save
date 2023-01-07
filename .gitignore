@@ -34,3 +34,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+/CHANGELOG.md
+/LICENSE.md
+/pocketbase
