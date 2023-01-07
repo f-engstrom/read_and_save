@@ -37,3 +37,9 @@ next-env.d.ts
 /CHANGELOG.md
 /LICENSE.md
 /pocketbase
+/pb_data/data.db
+/pb_data/data.db-shm
+/pb_data/data.db-wal
+/pb_data/logs.db
+/pb_data/logs.db-shm
+/pb_data/logs.db-wal
